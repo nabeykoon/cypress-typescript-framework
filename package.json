@@ -1,0 +1,16 @@
+{
+  "name": "cypress-typescript-framework",
+  "version": "1.0.0",
+  "description": "Cypress typescript based automation framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nadeera Abeykoon",
+  "license": "ISC",
+  "devDependencies": {
+    "@cypress/xpath": "^2.0.3",
+    "cypress": "^12.15.0",
+    "typescript": "^4.9.4"
+  }
+}
